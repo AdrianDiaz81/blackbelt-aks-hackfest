@@ -49,7 +49,15 @@
    <div class="row at-row flex-center flex-middle">
       <div class="col-lg-24">
         <h1>
-          <!-- modifying code here -->
+         <div class="row at-row flex-center flex-middle">
+  <div class="col-lg-6">
+  </div>
+  <div class="col-lg-12 credits">
+    Adri
+  </div>
+  <div class="col-lg-6">
+  </div>
+</div>
           </h1>
       </div>
    </div>
